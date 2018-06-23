@@ -1,6 +1,6 @@
 class facultad2{
      
-      
+     //devuelve la Conecction a una bd desde un constructor 
    static Connection cn;
      
       String url,user,pass;
@@ -14,13 +14,6 @@ class facultad2{
                  
               cn=DriverManager.getConnection(url,user,pass);
              
-             if (cn != null){
-                System.out.println("coneccion establecida valor de cn:"+cn);
-                 cn.close();
-             }  
-             else{
-                 System.out.println("No se pudo conectar!! valor de cn:"+cn);
-             
-             }       
+                    
      }
    }
