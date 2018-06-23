@@ -5,8 +5,8 @@ import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
 /////////////////////////////////////////////////////
-//Plan 111Mil Programadore
-//Objetivo:Devolver la coneecion dede un metodo
+//Plan 111Mil Programadores
+//Objetivo:Devolver la coneccion desde un metodo
 //autor:Augusto Acha
 //////////////////////////////////////////////////////
 public class facultad {
