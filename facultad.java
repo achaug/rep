@@ -7,6 +7,7 @@ import java.sql.SQLException;
 /////////////////////////////////////////////////////
 //Plan 111Mil Programadore
 //Objetivo:Devolver la coneecion dede un metodo
+//autor:Augusto Acha
 //////////////////////////////////////////////////////
 public class facultad {
 
