@@ -4,31 +4,12 @@ package facultad;
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
-//Carrera alumno,materia 1 a 1 materia tiene carrera
-
+/////////////////////////////////////////////////////
+//Plan 111Mil Programadore
+//Objetivo:Devolver la coneecion dede un metodo
+//////////////////////////////////////////////////////
 public class facultad {
-   //private String url1,user1,pass1,DRIVER;
-    /* 
-   static Connection cn;
-     String url,user,pass;
-     
-     facultad() throws SQLException, ClassNotFoundException{
-                Class.forName("com.mysql.jdbc.Driver");
-                 url="jdbc:mysql://127.0.0.1:3306/facultad";
-                 user="root";
-                 pass="";
-                 
-              cn=DriverManager.getConnection(url,user,pass);
-             if (cn != null){
-                System.out.println("coneccion establecida valor de cn:"+cn);
-                 cn.close();
-             }  
-             else{
-                 System.out.println("No se pudo conectar!! valor de cn:"+cn);
-             
-             }       
-     }
-      */
+
       //Declara la variableS privada
    private String url1,user1,pass1,DRIVER;
    
