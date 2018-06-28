@@ -4,4 +4,7 @@
 
 [![Twitter](https://img.shields.io/twitter/url/https/github.com/achaug/rep.git.svg?style=for-the-badge)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fachaug%2Frep.git)
 
+![Travis](https://img.shields.io/travis/achaug/rep.svg)
+
+
 
